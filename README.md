@@ -10,3 +10,5 @@
 #### Databases
 
 - [SQLite: Past, Present, and Future](https://www.vldb.org/pvldb/vol15/p3535-gaffney.pdf)
+- [Readings in Database Systems - redbook](http://www.redbook.io/)
+- [Architecture of a Database System](https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf)
